@@ -1,6 +1,6 @@
-# semana1
+# semana2
 
-A new Flutter project.
+ Second Flutter project.
 
 ## Getting Started
 
